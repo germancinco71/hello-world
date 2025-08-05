@@ -1,4 +1,4 @@
-\# Hello World
+# Hello World
 
 
 
@@ -6,11 +6,11 @@ This project demonstrates a simple "Hello, World!" program, which is often the f
 
 
 
-\## Features:
+## Features:
 
 
 
--Outputs "Hello, World!" to the console.
+- Outputs "Hello, World!" to the console.
 
--Basic setup for learning and experiment with PHP
+- Basic setup for learning and experiment with PHP
 
